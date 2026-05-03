@@ -1,4 +1,4 @@
-# LIH-Internship-26
+# PhD_Moad_Hani_2026
 
 # Moad Hani - Research Portfolio
 
@@ -13,13 +13,10 @@
 - Fairness-aware data analysis
 
 ## Internship Project
-- Five research questions addressing clinical-molecular integration at LIH
+- Five research questions addressing clinical-imaging integration at OPDC
 
 ## Collaboration & Code
 Core implementations are maintained as part of active doctoral research.
-During the proposed internship, I will provide direct technical collaboration
-implementing these methodologies on LuxPark data within LIH's institutional
-framework.
 
 ## Contact
 moad.hani@umons.ac.be
